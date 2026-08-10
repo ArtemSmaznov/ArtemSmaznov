@@ -1,0 +1,3 @@
+[[https://github.com/ArtemSmaznov/dotfiles][dotfiles]] | [[https://github.com/ArtemSmaznov/dotfiles-hyprland][hyprland]] | [[https://github.com/ArtemSmaznov/dotfiles-eww][eww]] | [[https://github.com/ArtemSmaznov/dotfiles-doom-emacs][doom-emacs]] | [[https://github.com/ArtemSmaznov/dotfiles-vim][vim]]
+
+[[https://github.com/ArtemSmaznov/homelab][homelab]]
